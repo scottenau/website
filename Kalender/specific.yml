@@ -1,5 +1,5 @@
 {
-  "url": http://www.google.com/calendar/ical/schachbezirk.mittelbaden%40gmail.com/public/basic.ics,
+  "url": "http://www.google.com/calendar/ical/schachbezirk.mittelbaden%40gmail.com/public/basic.ics",
   "title": "SCO Kalender",
   "language": "de",
   "css": ".dhx_cal_navline, .dhx_scale_bar, .dhx_cal_container, .dhx_cal_header {background-color: white;}\n.event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: black;} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: black;} .dhx_cal_tab, .dhx_cal_tab.active {border-color: black;}\n.dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: Moccasin;}\n.dhx_month_body, .dhx_month_head, .dhx_cal_container { background-color: white; }\n.dhx_after .dhx_month_body, .dhx_before .dhx_month_body, .dhx_after .dhx_month_head, .dhx_before .dhx_month_head { background-color: GhostWhite; }\n",
