@@ -1,5 +1,8 @@
 {
-  "url": "https://www.calendarlabs.com/ical-calendar/ics/46/Germany_Holidays.ics",
+  "url": [
+  	"https://www.calendarlabs.com/ical-calendar/ics/46/Germany_Holidays.ics",
+  	"https://raw.githubusercontent.com/scottenau/website/master/Kalender/DSJ%202020%20internet-fortbildung.ics"
+  	],
   "language": "de",
   "tab": "agenda"
 }
